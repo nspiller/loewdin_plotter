@@ -1,3 +1,5 @@
+DEPRECATED: Further deveolpment happens [here](https://gitlab.gwdg.de/orca-helpers/orca-helpers/)
+
 # `loewdin_plotter`
 Plots specific Loewdin population of specific orbitals.
 
@@ -57,6 +59,3 @@ One can also specify atoms by index and sum up all contributions from each atom.
 Tested with `ORCA 4.2`
 - `python3`
 	- `seaborn`
-
-## Contributor
-Contributed by Nico Spiller
