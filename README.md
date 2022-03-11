@@ -1,4 +1,4 @@
-DEPRECATED: Further deveolpment happens [here](https://gitlab.gwdg.de/orca-helpers/orca-helpers/)
+:stop_sign: DEPRECATED :stop_sign: Further deveolpment happens [here](https://gitlab.gwdg.de/orca-helpers/orca-helpers/)
 
 # `loewdin_plotter`
 Plots specific Loewdin population of specific orbitals.
